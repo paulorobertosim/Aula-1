@@ -6,4 +6,4 @@
 #│   ├── arquitetura.md  (Diagramas e fluxo de dados)
 #│   ├── API.md          (Endpoints e exemplos)
 #│   └── /assets         (Imagens, prints e diagramas)
-#└── CONTRIBUTING.md     (Guia de contribuição)
+#└── CONTRIBUTING.md     (Guia de contribuição)\
