@@ -1,4 +1,4 @@
-/
+#/
 #├── README.md           (Visão geral, objetivos e links rápidos)
 #├── /docs               (Pasta dedicada à documentação)
 #│   ├── index.md        (Índice da documentação)
